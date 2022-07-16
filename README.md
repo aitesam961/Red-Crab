@@ -1,8 +1,8 @@
- Red-Crab
+Red-Crab
 An Open Source, Modular PID controller.
 
 # Red-Crab Overview
-####Features:
+### Features:
 
 ## Build Your Own?
 ## Future Plans
