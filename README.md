@@ -52,7 +52,6 @@ Note: I am not affiliated with PCBWay. However, I just like their service and bu
 * [ ] Validation & Testing
 * [x] Documentation
 * [ ] Future Improvements
-* [ ] 
 ## Acknowledgements
 
 ## License
