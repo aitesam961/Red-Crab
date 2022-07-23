@@ -1,0 +1,12 @@
+07-09 17:27:49 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'win32'
+07-09 17:27:49 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.9.10 (main, Apr 30 2022, 01:39:58) [MSC v.1929 64 bit (AMD64)]'
+07-09 17:27:49 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.5)
+07-09 17:27:49 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.5
+07-09 17:27:49 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x000001C943AF8E50>
+07-09 17:50:35 root 1331:Loading system fonts.
+07-09 17:50:37 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+07-09 17:50:38 unfiltered 871:Found SVG layer: F.SilkS
+07-09 17:50:38 root 928:  Writing Text with 135 points
+07-09 17:50:38 root 928:  Writing Text with 10 points
+07-09 17:50:38 root 928:  Writing Text with 11 points
+07-09 17:50:38 root 928:  Writing Text with 11 points

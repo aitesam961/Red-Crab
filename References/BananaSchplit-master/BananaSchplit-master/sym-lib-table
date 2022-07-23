@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "TPS65131RGET")(type "Legacy")(uri "${KIPRJMOD}/lib/TPS65131RGET.lib")(options "")(descr ""))
+  (lib (name "BananaSchplit-rescue")(type "Legacy")(uri "${KIPRJMOD}/BananaSchplit-rescue.lib")(options "")(descr ""))
+)
