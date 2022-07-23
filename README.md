@@ -42,6 +42,17 @@ Note: I am not affiliated with PCBWay. However, I just like their service and bu
 ## Frequently Asked Questions(FAQs)
 ## General Component Info
 
+## Roadmap
+
+* [x] Concept Proof
+* [x] Research & Information
+* [x] Finalizing The Idea
+* [x] Schematics
+* [x] PCB Design
+* [ ] Validation & Testing
+* [x] Documentation
+* [ ] Future Improvements
+* [ ] 
 ## Acknowledgements
 
 ## License
