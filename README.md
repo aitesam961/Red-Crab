@@ -19,6 +19,15 @@ The idea of this project is to use a modular approach where different ad-ons cou
 
 # Red-Crab Overview
 ### Features:
+* Selectable P,PI,PID configurations.
+* Adjustable GAINs using 50kOHM Potentiometers.
+* DIP Switches for Controller Configuration
+* Wide DC Voltage Input Range 
+* 4-Layer Board with special Care to EMC/EMI for use in commercial applications.
+* Open Source under GPL 3.0. (See License)
+* Integrated Output Current Aplification for Larger Loads
+* Ability to power External Peripherals
+
 ## How to Use:
 ## Electrical Specifications:
 
