@@ -6,7 +6,7 @@ The idea of this project is to use a modular approach where different ad-ons cou
 (OSHW Community can contribute in designing add-ons).
 
 ## Table of contents
-* [Red-Crab Overview](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+* [Red-Crab Overview](https://github.com/aitesam961/Red-Crab/blob/main/README.md#red-crab-overview)
 * [How to Use:](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
 * [Electrical Specifications](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
 * [Build Your Own?](https://github.com/maitesam/OpenADSP/blob/main/README.md#block-diagram)
