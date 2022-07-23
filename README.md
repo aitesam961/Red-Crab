@@ -7,15 +7,15 @@ The idea of this project is to use a modular approach where different ad-ons cou
 
 ## Table of contents
 * [Red-Crab Overview](https://github.com/aitesam961/Red-Crab/blob/main/README.md#red-crab-overview)
-* [How to Use:](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
-* [Electrical Specifications](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
-* [Build Your Own?](https://github.com/maitesam/OpenADSP/blob/main/README.md#block-diagram)
-* [Future Plans](https://github.com/maitesam/OpenADSP/blob/main/README.md#Working-Explained)
-* [Ordering Info](https://github.com/maitesam/OpenADSP/blob/main/README.md#Ordering-Boards)
-* [Frequently Asked Questions(FAQs)](https://github.com/maitesam/OpenADSP/blob/main/README.md#Assembly)
-* [General Component Info](https://github.com/maitesam/OpenADSP/blob/main/README.md#Flashing-Firmware)
-* [Acknowledgements](https://github.com/maitesam/OpenADSP/blob/main/README.md#Contribution)
-* [License](https://github.com/maitesam/OpenADSP/blob/main/README.md#License)
+* [How to Use:](https://github.com/aitesam961/Red-Crab/blob/main/README.md#how-to-use)
+* [Electrical Specifications](https://github.com/aitesam961/Red-Crab/blob/main/README.md#electrical-specifications)
+* [Build Your Own?](https://github.com/aitesam961/Red-Crab/blob/main/README.md#build-your-own)
+* [Future Plans](https://github.com/aitesam961/Red-Crab/blob/main/README.md#future-plans)
+* [Ordering Info](https://github.com/aitesam961/Red-Crab/blob/main/README.md#ordering-info)
+* [Frequently Asked Questions(FAQs)](https://github.com/aitesam961/Red-Crab/blob/main/README.md#frequently-asked-questionsfaqs)
+* [General Component Info](https://github.com/aitesam961/Red-Crab/blob/main/README.md#general-component-info)
+* [Acknowledgements](https://github.com/aitesam961/Red-Crab/blob/main/README.md#acknowledgements)
+* [License](https://github.com/aitesam961/Red-Crab/blob/main/README.md#license)
 
 # Red-Crab Overview
 ### Features:
