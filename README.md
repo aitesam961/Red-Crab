@@ -33,6 +33,13 @@ The idea of this project is to use a modular approach where different ad-ons cou
 
 ## Build Your Own?
 ## Future Plans
+In future, this project seeks improvements and Development in following areas:
+* Digital to Analog Converter Module (Ad-On Board)
+* Temeprature Sensing & Amplification (Ad-On Board)
+* Frequency to Voltage Converter (Ad-On Board)
+* Integration with ARDUINO for Data Logging (Ad-On Board)
+* Servo Actuation Control (Ad-On Board)
+* Disturbance Integration Using Arduino (Ad-On Board)
 ## Ordering Info
 You Can manufacture the PCBs from PCBWay.
 [Check Out PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=440401)
