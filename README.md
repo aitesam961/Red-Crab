@@ -67,6 +67,8 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Acknowledgements
+This project is created to serve the Open Hardware Community in terms of Analog Controller Design using discrete components. Unfortunately, there isn't much of open source projects in terms of Flexible and Modular PID controller Design area.
+Thye crater hopes it helps someone
 
 ## License
 This Project is designed under General Public License V3.0 See `LICENSE.txt` for more information.
