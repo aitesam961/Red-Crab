@@ -5,6 +5,19 @@ Offering vast selection of control parameters, this Project could be implemented
 The idea of this project is to use a modular approach where different ad-ons could be used with the Basic PID controller board for controlling applications. Add-on Boards will be designed next added to the repository.
 (OSHW Community can contribute in designing add-ons).
 
+## Preview
+<p align="center">
+  <img width="1100" src="Images/TOP1.png" alt="Material Bread logo">
+</p>
+<p align="right">
+  <img width="1100" src="Images/PCB_1.png" alt="Material Bread logo">
+</p>
+<p align="left">
+  <img width="1100" src="Images/BOT1.png" alt="Material Bread logo">
+</p>
+
+
+
 ## Table of contents
 * [Red-Crab Overview](https://github.com/aitesam961/Red-Crab/blob/main/README.md#red-crab-overview)
 * [How to Use:](https://github.com/aitesam961/Red-Crab/blob/main/README.md#how-to-use)
