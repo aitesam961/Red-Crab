@@ -106,6 +106,7 @@ Thye crater hopes it helps someone
 │   ├── TOP2_RT.png
 │   ├── TOP3_RT.png
 │   └── TOP4_RT.png
+├── LICENSE.txt
 ├── Manufacturing Files
 │   ├── bom.csv
 │   ├── designators.csv
@@ -194,7 +195,7 @@ Thye crater hopes it helps someone
             ├── SOT-23.wrl
             └── SW_DIP_SPSTx08_Slide_6.7x21.88mm_W8.61mm_P2.54mm_LowProfile.wrl
 
-14 directories, 86 files
+14 directories, 87 files
 ```
 ## License
 This Project is designed under General Public License V3.0 See `LICENSE.txt` for more information.
