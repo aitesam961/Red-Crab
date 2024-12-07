@@ -90,6 +90,112 @@ Don't forget to give the project a star! Thanks again!
 This project is created to serve the Open Hardware Community in terms of Analog Controller Design using discrete components. Unfortunately, there isn't much of open source projects in terms of Flexible and Modular PID controller Design area.
 Thye crater hopes it helps someone
 
+## File Tree
+```
+.
+├── Documents
+│   ├── ibom.html
+│   └── PID_Controller_Design.pdf
+├── Images
+│   ├── BOT1.png
+│   ├── BOT1_RT.png
+│   ├── PCB_1.png
+│   ├── SID1_RT.png
+│   ├── TOP1.png
+│   ├── TOP1_RT.png
+│   ├── TOP2_RT.png
+│   ├── TOP3_RT.png
+│   └── TOP4_RT.png
+├── Manufacturing Files
+│   ├── bom.csv
+│   ├── designators.csv
+│   ├── gerber.zip
+│   ├── netlist.ipc
+│   └── positions.csv
+├── MCAD Files
+│   ├── Red-Crab.step
+│   └── Red-Crab.wrl
+├── README.md
+├── Readme.txt.txt
+├── References
+│   ├── BananaSchplit-master
+│   │   └── BananaSchplit-master
+│   │       ├── assembly
+│   │       │   ├── BananaSchplit-BOM.csv
+│   │       │   └── BananaSchplit-Footprint-Positions.csv
+│   │       ├── BananaSchplit-cache.lib
+│   │       ├── BananaSchplit.kicad_pcb
+│   │       ├── BananaSchplit.kicad_pcb-bak
+│   │       ├── BananaSchplit.net
+│   │       ├── BananaSchplit.pro
+│   │       ├── BananaSchplit-rescue.dcm
+│   │       ├── BananaSchplit-rescue.lib
+│   │       ├── BananaSchplit.sch
+│   │       ├── BananaSchplit.sch-bak
+│   │       ├── BananaSchplit.xml
+│   │       ├── fp-info-cache
+│   │       ├── fp-lib-table
+│   │       ├── gerber
+│   │       │   ├── BananaSchplit-B_Cu.gbr
+│   │       │   ├── BananaSchplit-B_Mask.gbr
+│   │       │   ├── BananaSchplit-B_Paste.gbr
+│   │       │   ├── BananaSchplit-B_SilkS.gbr
+│   │       │   ├── BananaSchplit.drl
+│   │       │   ├── BananaSchplit-Edge_Cuts.gbr
+│   │       │   ├── BananaSchplit-F_Cu.gbr
+│   │       │   ├── BananaSchplit-F_Mask.gbr
+│   │       │   ├── BananaSchplit-F_Paste.gbr
+│   │       │   ├── BananaSchplit-F_SilkS.gbr
+│   │       │   └── BananaSchplit-Gerber.zip
+│   │       ├── lib
+│   │       │   ├── BananSchplitSilk.pretty
+│   │       │   │   ├── BananaSchplitDrawn.png
+│   │       │   │   ├── BananaSchplit.png
+│   │       │   │   ├── BananaSchplitSilkLogoDrawn.kicad_mod
+│   │       │   │   └── BananaSchplitSilkLogo.kicad_mod
+│   │       │   ├── TPS65131RGET.lib
+│   │       │   ├── TPS65131RGET.mod
+│   │       │   └── TPS65131RGET.stp
+│   │       ├── LICENSE
+│   │       ├── README.md
+│   │       └── sym-lib-table
+│   ├── Screenshot 2022-07-08 204516.png
+│   └── The_Design_of_the_PID_Controller.pdf
+└── Source Files
+    └── Red_Crab_KiCAD_Source
+        ├── fp-info-cache
+        ├── Passives.kicad_sch
+        ├── PID_Core.kicad_sch
+        ├── place_footprints.log
+        ├── Power.kicad_sch
+        ├── Red-Crab.kicad_pcb
+        ├── Red-Crab.kicad_prl
+        ├── Red-Crab.kicad_pro
+        ├── Red-Crab.kicad_sch
+        └── shapes3D
+            ├── C_0603_1608Metric.wrl
+            ├── C_0805_2012Metric.wrl
+            ├── C_1206_3216Metric.wrl
+            ├── CP_Elec_6.3x5.3.wrl
+            ├── CP_Elec_6.3x7.7.wrl
+            ├── DC-jack.wrl
+            ├── D_SOD-123.wrl
+            ├── Fuse_1210_3225Metric.wrl
+            ├── HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm.wrl
+            ├── HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl
+            ├── JST_EH_S6B-EH_1x06_P2.50mm_Horizontal.wrl
+            ├── L_Bourns_SRR1260.wrl
+            ├── LED_0805_2012Metric.wrl
+            ├── POT_SMD.wrl
+            ├── QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl
+            ├── R_0402_1005Metric.wrl
+            ├── R_0603_1608Metric.wrl
+            ├── SOIC-14_3.9x8.7mm_P1.27mm.wrl
+            ├── SOT-23.wrl
+            └── SW_DIP_SPSTx08_Slide_6.7x21.88mm_W8.61mm_P2.54mm_LowProfile.wrl
+
+14 directories, 86 files
+```
 ## License
 This Project is designed under General Public License V3.0 See `LICENSE.txt` for more information.
 > https://www.gnu.org/licenses/quick-guide-gplv3.html
