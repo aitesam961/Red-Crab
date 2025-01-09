@@ -198,7 +198,7 @@ Thye crater hopes it helps someone
 14 directories, 87 files
 ```
 ## License
-This Project is designed under General Public License V3.0 See `LICENSE.txt` for more information.
+This Project is published under General Public License V3.0 See `LICENSE.txt` for more information.
 > https://www.gnu.org/licenses/quick-guide-gplv3.html
 
 <p align="right">(<a href="#top">back to top</a>)</p>
